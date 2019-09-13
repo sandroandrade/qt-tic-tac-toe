@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>384306__frankum__nebula-techno-house-loop.mp3</file>
+        <file>click.ogg</file>
+    </qresource>
+</RCC>
